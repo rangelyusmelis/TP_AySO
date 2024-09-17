@@ -1,0 +1,10 @@
+TCPDUMP(8)                                                                                 System Manager's Manual                                                                                TCPDUMP(8)
+
+NAME
+       tcpdump - dump traffic on a network
+
+SYNOPSIS
+       tcpdump [ -AbdDefhHIJKlLnNOpqStuUvxX# ] [ -B buffer_size ]
+               [ -c count ] [ --count ] [ -C file_size ]
+               [ -E spi@ipaddr algo:secret,...  ]
+               [ -F file ] [ -G rotate_seconds ] [ -i interface ]

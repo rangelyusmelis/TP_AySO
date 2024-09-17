@@ -1,0 +1,147 @@
+    1  exit logout
+    2  ls
+    3  542.whoami
+    4  whoami
+    5  pwd}
+    6  pwd
+    7  man echo
+    8  cd repogit
+    9  ls
+   10  git clone https://github.com/rangelyusmelis/repo_Rangel.git
+   11  ls
+   12  cd repo_Rangel
+   13  ls
+   14  history
+   15  history > historial.txt
+   16  cat historial.txt
+   17  git status
+   18  git add .
+   19  git status
+   20  git commit -m "Mi Primer Commit"
+   21  ls
+   22  cd repogit
+   23  ls
+   24  ls -l
+   25  sudo rm -r repo_Rangel
+   26  ls
+   27  pwd
+   28  git clone git@github.com:rangelyusmelis/repo_Rangel.git
+   29  ls -l
+   30  cd repo_Rangel/
+   31  echo "hola"  > hola.txt
+   32  la l
+   33  echo "hola"
+   34  echo "hola" > hola.txt
+   35  ls
+   36  git status
+   37  git add .
+   38  git status
+   39  git commit -m " Miprimer Commit"
+   40  git config --global user.email "ryusmeis23@gmail.com"
+   41  git config --global user.name "rangelyusmelis"
+   42  git push
+   43  git status
+   44  git add .
+   45  git comit " miprimer commit"
+   46  git commit -m "mi primer commit"
+   47  git push
+   48  cat /etc
+   49  cat /etc pas wd
+   50  cat /etc paswd
+   51  cat /etc/pwd
+   52  cat /etc/paspwd
+   53  cat /etc/pas pwd
+   54  cat /etc/paswd
+   55  cat /etc/passwd
+   56  head /etc/passwd
+   57  clear
+   58  head /etc/passwd
+   59  grep bash /etc/passwd
+   60  tail n3 /etc/passwd
+   61  tail -n3 /etc/passwd
+   62  archivo2.txt
+   63  tail -n3 /etc/passwd >archivo2.txt
+   64  ls
+   65  cat archivo2.txt
+   66  sort archivo2.txt
+   67  cat archivo2
+   68  cat archivo2.txt
+   69  exit logout
+   70  pwd
+   71  ls
+   72  cd repogit
+   73  ls
+   74  pwd
+   75  ls
+   76  cd ..
+   77  pwd
+   78  ssh-keygen -t ed25516
+   79  ssh-keygen -t ed25519
+   80  ls -l
+   81  ls -la
+   82  pwd
+   83  cd .ssh
+   84  ls
+   85  cat id_ed25519.pub
+   86  cd repogit
+   87  cd ..
+   88  ls
+   89  cd repogit
+   90  ls
+   91  rm -r repo_Rangel
+   92  cd repogit
+   93  cd TP_AySO/
+   94  cat datos_usario.txt
+   95  cat datos_usuario.txt
+   96  git add .
+   97  git commit -m "ADD listado de usuarios ordenados"
+   98  man grep "dump traffic"
+   99  "sudo tcpdump -i <interface> -w /path/to/file.pcap
+  100  " >> comando_dump_net.txt
+  101  "sudo tcpdump -i <interface> -w /path/to/file.pcap" >> comando_dump_net.txt
+  102  "sudo tcpdump -i <interface> -w /path/to/file.pcap" > comando_dump_net.txt
+  103  man tcpdump
+  104  man grep tcpdump > comando_dump_net.txt
+  105  cat comando_dump_net.txt 
+  106  sudo rm -r comando_dump_net.txt
+  107  head man grep tcpdump > comando_dump_net.txt
+  108  man grep tcpdump 
+  109  man dump traffic
+  110  man tcpdump
+  111  man tcpdump > comando_dump_nex.txt
+  112  cat comando_dump_nex.txt 
+  113  cat comando_dump_net.txt 
+  114  clear
+  115  cat comando_dump_net.txt 
+  116  cat comando_dump_nex.txt 
+  117  git add .
+  118  cd repogit
+  119  cd TP_AySO/
+  120  head man tcpdump > comando_dump_net.txt
+  121  man N
+  122  man tcpdump
+  123  man tcpdump >comando | head comando > comando_dump_net.txt
+  124  cat comando_dump_net.txt
+  125  man tcpdump >comando | head comando >> comando_dump_net.txt
+  126  cat comando_dump_net.txt
+  127  man tcpdump | head >> comando_dump_net.txt
+  128  cat comando_dump_net.txt
+  129  git add.
+  130  git add .
+  131  git commit -m “comando_dump_net”
+  132  git commit -m "ADD: Comando para Capturar y analizar el tráfico de red"
+  133  Alumno: Yusmelis >> README.md
+  134  cat <<EOF >> README.md
+Alumno: Yusmelis
+División: 311
+Turno: Mañana
+
+cat readme.md
+
+  135  cat README.md
+  136  git add .
+  137  git commit -m " datos del alumno en readme"
+  138  history -a > Historial_comandos_yusmelis.txt
+  139  git status
+  140  cat Historial_comandos_yusmelis.txt
+  141  history > Historial_comandos_yusmelis.txt
